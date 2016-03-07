@@ -1,5 +1,7 @@
 # Sugar-Deprecated
 
+[![Build Status](https://travis-ci.org/Slayer95/sugar-deprecated.svg)](https://travis-ci.org/Slayer95/sugar-deprecated.svg)
+
 Compatibility layer to smoothly remove dependency on library [Sugar.js][1]
 
 I have nothing against said library, but I found myself in the need to remove it from a project,
